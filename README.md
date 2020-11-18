@@ -1,4 +1,4 @@
-# Fifa tasks
+# Fifa list
 Adrian Stanecki, astanecki@github.com
 
 ## Running app on the browser
@@ -10,4 +10,4 @@ Adrian Stanecki, astanecki@github.com
 1. Go to root directory
 2. Run ```npm run rel```
 
-Release version will be prepared in ./public directory
+Release version will be prepared in ./docs directory
